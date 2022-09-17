@@ -1,0 +1,24 @@
+/* write your CSS styles here */ 
+body {
+    background-color: black;
+    color: lightgray;
+}
+
+textarea {
+    border: gray 1px solid;
+    color: lightgray;
+    background-color: black;
+}
+
+:focus {
+    outline: rgb(16, 94, 87) 4px solid;
+}
+
+button {
+    background-color: grey;
+    color: white;
+}
+
+thead textarea {
+    font-weight: bolder;
+}
